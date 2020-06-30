@@ -1,2 +1,2 @@
-# Linear_Regression_Workshop_Pappu Group
+# Linear_Regression
 Linear regression Example Demo for Workshop
